@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Guocong Zhai/Mobility Nexus Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Guocong Zhai"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gzhai001.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gzhai001/gzhai001.github.io"
 
