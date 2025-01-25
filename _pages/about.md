@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Guocong Zhai, graduated from Old Dominion University in 2024, supervised by Dr. Kun Xie. I am currently working at the National University of Singapore as a research fellow and will join Southwest Jiaotong University in 2025. My research focuses on traffic safety, mobility behavior, and traffic resilience. Please feel free to contact me at gzhai@mus.edu.sg.
+I am Guocong Zhai, graduated from Old Dominion University in 2024, supervised by Dr. Kun Xie. I am currently working at the National University of Singapore as a research fellow and will join Southwest Jiaotong University in 2025. My research focuses on traffic safety, mobility behavior, and traffic resilience. Please feel free to contact me at gzhai@nus.edu.sg.
 
 Recent Research
 ======
