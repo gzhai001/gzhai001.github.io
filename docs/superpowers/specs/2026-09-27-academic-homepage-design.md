@@ -1,105 +1,71 @@
 # Design: Guocong Zhai Academic Homepage (gzhai001.github.io)
 
-Date: 2026-09-27
-Status: Approved by user (design direction: Style A — Classic Academic)
+Date: 2026-09-27 (revised same day after discovering existing AcademicPages site)
+Status: Direction approved by user — **revive the existing AcademicPages site**
 
-## Goal
+## Background
 
-A personal academic homepage for Guocong Zhai (Assistant Professor, School of
-Transportation and Logistics, Southwest Jiaotong University), hosted on GitHub
-Pages at https://gzhai001.github.io, built from the content of his CV (LaTeX
-resume) and SWJTU faculty page.
+Initial plan was a hand-crafted single-page static HTML site (Style A mockup
+approved). During setup we discovered `~/gzhai001.github.io` already contains a
+partially configured **AcademicPages (Jekyll)** site from Jan–Apr 2025 with most
+content already written. User chose to revive it instead. The remote repo
+`gzhai001/gzhai001.github.io` no longer exists on GitHub (site returns 404), so
+it must be recreated and pushed.
 
-## Decisions (from brainstorming)
+## Current state of the local site (verified)
 
-- **Tech stack:** hand-crafted single-page static HTML — no build step, no Jekyll.
-- **Language:** English only.
-- **Visual direction:** Style A "Classic Academic" — left sidebar (photo, name,
-  affiliation, contact links) + right content column; navy accent `#0b3d6e`;
-  responsive (sidebar stacks above content on narrow screens).
-- **Sections (standard academic set):** About, News, Education & Appointments,
-  Publications (two themes), Research Funding, Awards & Honors +
-  Professional Service.
+- `_config.yml`: title, description, URL, repository set; author sidebar filled
+  (avatar `profile.png` — exists in `images/`, bio, location, email, Google
+  Scholar, ResearchGate, GitHub).
+- `_pages/about.md` (homepage): bio, two research themes, education,
+  Prospective Students, Contact.
+- `_pages/research.md`: two-theme research overview + selected funding list.
+- `_pages/publications.md`: full publication list (journal + working papers),
+  already includes 2026 updates (e.g., JCM paper now published: 59, 100610).
+- `_pages/cv.md`: education, appointments, funding.
+- `_data/navigation.yml`: Publications / Research / CV.
+- Untracked: `.bundle/`, `vendor/` (must not be committed).
+- Template placeholder files still present: `files/paper*.pdf`,
+  `files/slides*.pdf`, stock images in `images/`, `_drafts/`.
 
-## Architecture
+## Work to complete the revival
 
-New local folder `~/gzhai001.github.io/`, pushed to a new public GitHub repo
-`gzhai001/gzhai001.github.io`. GitHub Pages serves `username.github.io` repos
-automatically from the default branch root — no Actions workflow or Pages
-configuration needed.
-
-```
-gzhai001.github.io/
-├── index.html      # all content, semantic sections with anchor ids
-├── style.css       # all styling (sidebar layout, navy accent, responsive)
-├── assets/
-│   ├── photo.jpg   # headshot; GitHub avatar used as initial placeholder
-│   └── cv.pdf      # user supplies later; link present in sidebar
-├── README.md       # one-paragraph description + how to update
-└── docs/superpowers/specs/2026-09-27-academic-homepage-design.md  # this file
-```
-
-- No JavaScript required. No external CSS frameworks; system font stack.
-- Navigation: sidebar link list + in-page anchors; no top nav bar.
-
-## Content
-
-Source of truth: user's LaTeX CV (verbatim content) + faculty page
-(https://faculty.swjtu.edu.cn/gzhai/zh_CN/index/869245/list/index.htm).
-
-1. **Sidebar:** photo, name, title/affiliation (office room omitted),
-   email gzhai@swjtu.edu.cn, Google Scholar
-   (https://scholar.google.com/citations?user=YJHjwT8AAAAJ&hl=en),
-   GitHub (https://github.com/gzhai001), CV (PDF), ORCID/faculty page link.
-2. **About:** 1 paragraph — Assistant Professor at SWJTU; research on causal
-   inference, statistical modeling, and AI-driven behavioral analytics for
-   transportation safety and sustainable shared mobility; PhD Old Dominion
-   University (advisor Kun Xie); Research Fellow at NUS (mentor Prateek Bansal).
-   Brief recruitment line: prospective students welcome to email.
-3. **News** (derived from CV dates):
-   - 2026.06 — "Causal inference in conjoint analysis" forthcoming at *Journal of Choice Modelling*.
-   - 2026.01 — Awarded NSFC Young Scientists Fund (PI, ¥300,000).
-   - 2025.05 — Joined Southwest Jiaotong University as Assistant Professor.
-   - 2025 — Guest Editor, *Transportation Research Part D* special issue.
-4. **Education & Appointments:** condensed timeline from CV (3 degrees,
-   4 appointments).
-5. **Publications:** two themed ordered lists exactly as in CV —
-   Theme I "Causal Inference for Transportation Safety" ([S1]–[S9]) and
-   Theme II "AI-Driven Behavioral Analytics for Sustainable Shared Mobility"
-   ([M1]–[M11]); under-review/forthcoming items marked in italic venue text.
-6. **Research Funding:** 8 entries from CV with role (PI / Co-PI / Research
-   Fellow / Research Assistant), years, and amounts where listed.
-7. **Awards & Honors** and **Professional Service** (editorial service,
-   peer review summary) as compact sections at the bottom.
-8. **Footer:** "Last updated" date, link back to GitHub repo.
-
-## Styling
-
-- Max content width ~1080px, grid `260px 1fr`, gap ~44px; collapses to single
-  column below 800px.
-- Accent `#0b3d6e` (navy) for headings, rules, links; body text `#222`;
-  font stack `-apple-system, "Helvetica Neue", Arial, sans-serif`; base 14.5–15px.
-- Section headings: 19px navy with 2px bottom rule (matches approved mockup).
-- Print-friendly by default (no dark backgrounds).
-
-## Deployment & auth
-
-- `gh` CLI is not installed; macOS keychain already holds a GitHub HTTPS
-  credential for account `gzhai001`.
-- Repo creation: GitHub REST API `POST /user/repos` using the keychain token
-  (read via `git credential-osxkeychain get`, never echoed or committed).
-- Push: HTTPS remote with repo-local `credential.helper=osxkeychain`.
-- After push, verify https://gzhai001.github.io returns 200 and renders.
+1. **Content polish**
+   - Add a short **News** section to `_pages/about.md` (from CV dates):
+     JCM paper published (2026), NSFC Young Scientists Fund (2026),
+     joined SWJTU (2025), TRD guest editorship (2025).
+   - Verify `about.md` / `cv.md` / `research.md` / `publications.md` match the
+     CV; fix discrepancies (CV is source of truth; note publications.md has
+     newer data than CV for JCM — keep the newer published info).
+   - Add Awards & Honors and Professional Service to `_pages/cv.md`
+     (from CV: ODU awards, outstanding reviewer, editorial board roles,
+     guest editorship, 60+ peer reviews).
+2. **Cleanup**
+   - Delete template placeholder files: `files/paper1-3.pdf`,
+     `files/slides1-3.pdf`, stock images (`foo-bar-identity*`,
+     `image-alignment*`, `paragraph-indent*`, `500x300.png`,
+     `3953273590_704e3899d5_m.jpg`, `homepage.png`, `editing-talk.png`),
+     `_drafts/` contents.
+   - Confirm `.gitignore` covers `.bundle/`, `vendor/`, `.sass-cache/`,
+     `.jekyll-cache/`.
+   - Keep `images/profile.png` (avatar), favicon set, `site-logo.png` if used.
+3. **Deployment**
+   - Create public repo `gzhai001/gzhai001.github.io` via GitHub REST API
+     using the existing macOS keychain credential (never echoed/committed).
+   - Push `main` over HTTPS (repo-local `credential.helper=osxkeychain`).
+   - GitHub Pages builds `username.github.io` repos automatically (Jekyll via
+     github-pages gem — AcademicPages' standard deployment path); enable Pages
+     via API if not auto-enabled.
 
 ## Verification
 
-1. Serve locally (`python3 -m http.server`) and screenshot via the Kimi
-   browser extension; visually confirm layout matches Style A direction.
-2. Check all internal anchors and external links resolve.
-3. Validate responsiveness by screenshotting a narrow viewport.
-4. After deployment, load the live URL in the browser and confirm content.
+1. After push, poll the Pages build status via API until built.
+2. Load https://gzhai001.github.io in the browser (via Kimi extension),
+   screenshot, and confirm: homepage bio renders with sidebar avatar,
+   Publications/Research/CV pages load, links (Scholar, GitHub, email) work.
+3. Confirm no template placeholder content is reachable.
 
 ## Out of scope (YAGNI)
 
-- Blog, talks/teaching pages, multi-page structure, Jekyll, JavaScript widgets,
-  analytics, bilingual toggle, dark mode.
+- Blog, talks, teaching, portfolio collections; comments; analytics;
+  local Ruby/Jekyll preview setup (site is verified via the deployed build).
