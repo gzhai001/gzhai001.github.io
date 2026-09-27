@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guocong Zhai/Mobility Nexus Lab"
+title                    : "Guocong Zhai"
 title_separator          : "-"
 name                     : &name "Guocong Zhai"
-description              : &description "personal description"
+description              : &description "Assistant Professor, School of Transportation and Logistics, Southwest Jiaotong University"
 url                      : https://gzhai001.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gzhai001/gzhai001.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Guocong Zhai"
   pronouns         : "He/him"  
-  bio              : "A cool thinker in transportation"
-  location         : "Singapore"
-  employer         : "National University of Singapore"
+  bio              : "Assistant Professor, Southwest Jiaotong University"
+  location         : "Chengdu, China"
+  employer         : "Southwest Jiaotong University"
   uri              : # URL
-  email            : "gzhai@nus.edu.sg" 
+  email            : "gzhai@swjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
