@@ -11,6 +11,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Theme I: Causal Inference for Transportation Safety**
 
+- Pu, Q., Xie, K., Zhu, Y., & **Zhai, G.** (2027). Generating realistic safety-critical scenarios for vehicle-pedestrian interactions. *Transportation Research Part C: Emerging Technologies*, 194, 106002.
+
 - Wu, Z., **Zhai, G.**, & Bansal, P. (2026). Causal inference in conjoint analysis: Logit models vs. potential outcomes. *Journal of Choice Modelling*, 59, 100610.
 
 - **Zhai, G.**, Xie, K., Yang, D., & Yang, H. (2024). Developing equity-aware safety performance functions for identifying hotspots of pedestrian-involved crashes. *Accident Analysis & Prevention*, 207, 107759.
@@ -25,15 +27,17 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Theme II: AI-Driven Behavioral Analytics for Sustainable Shared Mobility**
 
+- Liu, X., **Zhai, G.**, Yang, H., Wang, D., Zuidgeest, M., Ding, H., & Liu, X. (2026). Modeling taxi-metro competition: Uncovering nonlinear influences of trip and built environment factors. *Transportation Research Part D: Transport and Environment*, 161, 105637.
+
 - Zhang, H., Xue, X., **Zhai, G.**, Yang, H., Lu, X., & Cherry, C. (2026). Choice preferences for urban air mobility: A latent class discrete choice model with mixed logit extensions. *Travel Behaviour and Society*, 43, 101229.
 
 - Yang, Z., **Zhai, G.**, Sze, N. N., Ding, H., Bobylev, N., & Yang, H. (2026). Exploring different patterns of bike-and-ride trips and influencing factors using geographically weighted random forest. *Travel Behaviour and Society*.
 
 - **Zhai, G.**, Wang, R., Liu, X., Mladenović, M. N., Tang, Y., Mu, H., Liu, X., & Yang, H. (2025). Built environment impacts on zonal shared e-scooter expenses: A Bayesian learning approach. *Transportation Research Part D: Transport and Environment*, 148, 105020.
 
-- Yang, H., Luo, P., Li, C., & **Zhai, G.** (2023). Nonlinear effects of fare discounts and built environment on ridesplitting adoption rates. *Transportation Research Part A: Policy and Practice*, 168, 103-118.
+- Yang, H., Luo, P., Li, C., & **Zhai, G.** (2023). Nonlinear effects of fare discounts and built environment on ridesplitting adoption rates. *Transportation Research Part A: Policy and Practice*, 169, 103577.
 
-- Yang, H., An, P., Wei, H., & **Zhai, G.** (2023). Unique in the metro system: The likelihood to re-identify a metro user with limited trajectory points. *Physica A: Statistical Mechanics and Its Applications*, 610, 128-141.
+- Yang, H., An, P., Wei, H., & **Zhai, G.** (2023). Unique in the metro system: The likelihood to re-identify a metro user with limited trajectory points. *Physica A: Statistical Mechanics and Its Applications*, 628, 129176.
 
 - Yang, H., **Zhai, G.**, & Yang, L. (2022). How does the suspension of ride-sourcing affect the transportation system and environment? *Transportation Research Part D: Transport and Environment*, 102, 103131.
 
@@ -47,10 +51,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - Pu, Q., Xie, K., Yang, H., & **Zhai, G.** A vision-and-knowledge enhanced large language model for generalizable pedestrian crossing behavior inference. *Under review at Travel Behaviour and Society*.
 
-- Pu, Q., Xie, K., Zhu, Y., & **Zhai, G.** Generating realistic safety-critical scenarios for vehicle-pedestrian interactions. *Under review at Accident Analysis & Prevention*.
-
 - **Zhai, G.**, Xie, K., Yang, D., & Yang, H. Do electric vehicles lead to more severe crashes? A doubly robust-based causal inference approach. *Under review at Transportation Research Part A: Policy and Practice*.
 
 - **Zhai, G.**, Yang, H., Yang, Z., Chen, S., Jiang, L., & Khattak, A. J. Assessing the effects of congestion surcharge on taxi ridership: Disentangling spatial spillover, nonlinearity, and time trends. *Under review at Transport Policy*.
 
-- Liu, X., **Zhai, G.**, Yang, H., Wang, R., Wang, D., & Witlox, F. Modeling taxi-metro competition: Uncovering nonlinear influences of trip and built environment factors. *Under review at Transportation Research Part D: Transport and Environment*.
+- Wang, R., Yang, H., Yang, Z., **Zhai, G.**, & Attard, M. (2025). Decoding weather-ridership dynamics for six transportation modes: A nonlinear analysis using XGBoost and SHAP models. *Available at SSRN 5312854*.
+
+- **Zhai, G.**, Chen, S., Yang, Z., Yang, H., Alruwaili, A., & Bobylev, N. (2025). How do weather and built environment nonlinearly influence metro ridership? A negative binomial regression enhanced by Bayesian additive regression trees. *Available at SSRN 5166698*.
