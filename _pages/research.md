@@ -31,7 +31,7 @@ How do people choose and use shared mobility services, and how do built environm
 - Choice preferences for urban air mobility
 - Bike-and-ride trip patterns
 
-## Selected Research Funding
+## Research Funding
 
 - **Causal Decision-Making for Safe Systems**, Ministry of Education of China, Overseas Postdoctoral Talent Program, Principal Investigator, 2027-2029
 - **Causal Inference Approach to Missing-Not-at-Random Mechanism Identification and Collaborative Imputation in Crash Data**, National Natural Science Foundation of China (Young Scientists Fund), Principal Investigator, 2026-2028
@@ -40,3 +40,4 @@ How do people choose and use shared mobility services, and how do built environm
 - **Home and Firm Location Choice Models and Platform Development**, Urban Redevelopment Authority, Singapore, Research Fellow, 2024-2027
 - **Factors Influencing Pedestrian Decisions to Cross Mid-Block and Potential Countermeasures**, FHWA and Virginia DOT, Research Assistant, 2022-2024
 - **Improving Safety Service Patrol Performance**, FHWA and Virginia DOT, Research Assistant, 2021-2023
+- **Statewide Landslide Risk Assessment on Transportation Infrastructure in Virginia**, Old Dominion University Internal Research Grant, Research Assistant, 2022-2024
