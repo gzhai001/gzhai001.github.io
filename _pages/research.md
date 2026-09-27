@@ -35,7 +35,7 @@ How do people choose and use shared mobility services, and how do built environm
 
 - **Causal Decision-Making for Safe Systems**, Ministry of Education of China, Overseas Postdoctoral Talent Program, Principal Investigator, 2027-2029
 - **Causal Inference Approach to Missing-Not-at-Random Mechanism Identification and Collaborative Imputation in Crash Data**, National Natural Science Foundation of China (Young Scientists Fund), Principal Investigator, 2026-2028
-- **Multimodal AI-Driven Demand Identification and Route Planning for Urban Air Mobility**, Fundamental Research Funds for the Central Universities, Principal Investigator, 2026-2027
+- **Multimodal AI-Driven Demand Identification and Route Planning for Urban Air Mobility**, Fundamental Research Funds for the Central Universities, Co-Principal Investigator, 2026-2027
 - **Digital Sisters: A Causally-Grounded Framework for Urban Mobility Knowledge Transfer in Data-Scarce Cities**, National Natural Science Foundation of China, Co-Principal Investigator, 2026-2027
 - **Home and Firm Location Choice Models and Platform Development**, Urban Redevelopment Authority, Singapore, Research Fellow, 2024-2027
 - **Factors Influencing Pedestrian Decisions to Cross Mid-Block and Potential Countermeasures**, FHWA and Virginia DOT, Research Assistant, 2022-2024
