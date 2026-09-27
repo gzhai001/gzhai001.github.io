@@ -78,12 +78,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - **Zhai, G.**, Chen, S., Yang, Z., Yang, H., Alruwaili, A., & Bobylev, N. (2025). How do weather and built environment nonlinearly influence metro ridership? A negative binomial regression enhanced by Bayesian additive regression trees. *Available at SSRN 5166698*.
 
-Education
-======
-* **Ph.D.** in Transportation Engineering, Old Dominion University, USA, 2024
-* **M.S.** in Transportation Planning and Management, Southwest Jiaotong University, China, 2020
-* **B.S.** in Transportation Safety Engineering, Chang'an University, China, 2016
-
 Prospective Students
 ======
 I am looking for self-motivated graduate students with backgrounds in transportation, computer science, mathematics, or statistics who are interested in causal inference, machine learning, and transportation safety/mobility. If interested, please email me with your CV and a brief statement of your research interests.
