@@ -62,8 +62,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - Zhang, Z., **Zhai, G.**, Xie, K., & Xiao, F. (2022). Exploring the nonlinear effects of ridesharing on public transit usage: A case study of San Diego. *Journal of Transport Geography*, 104, 103449.
 
-- Yang, H., Guo, Z., **Zhai, G.**, Yang, L., Huo, J., & Meng, X. (2022). Exploring the spatially heterogeneous effects of the built environment on bike-sharing usage during the COVID-19 pandemic. *Journal of Advanced Transportation*, 2022, 287-301.
-
 - Yang, H., **Zhai, G.**, Liu, X., Yang, L., Liu, Y., & Yuan, Q. (2022). Determinants of city-level private car ownership: Effects of vehicle regulation policies and relative prices. *Transport Policy*, 115, 40-48.
 
 **Working Papers**
