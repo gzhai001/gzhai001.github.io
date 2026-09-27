@@ -9,6 +9,8 @@ My research applies **causal inference and machine learning** to pressing transp
 
 ## Theme I: Causal Inference for Transportation Safety
 
+![Causal inference framework: isolating the effect of policies on safety outcomes while controlling for confounders](/images/theme1-causal-inference.svg)
+
 How can we credibly measure the safety effects of policies, vehicles, and infrastructure? I develop and apply causal inference methods — propensity score matching, difference-in-differences, doubly robust estimation, and Bayesian learning — to crash data, with applications including:
 
 - Citywide speed limit reduction and crash risk
@@ -18,6 +20,8 @@ How can we credibly measure the safety effects of policies, vehicles, and infras
 - Generative AI for safety-critical scenario generation and pedestrian behavior inference
 
 ## Theme II: AI-Driven Behavioral Analytics for Sustainable Shared Mobility
+
+![Behavioral analytics pipeline: from trajectory and built-environment data to models of shared mobility choices](/images/theme2-shared-mobility.svg)
 
 How do people choose and use shared mobility services, and how do built environment and pricing shape these choices? I combine discrete choice models, machine learning (XGBoost, SHAP, random forests), and large-scale behavioral data to study:
 
