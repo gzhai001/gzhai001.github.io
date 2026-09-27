@@ -74,10 +74,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - **Zhai, G.**, Yang, H., Yang, Z., Chen, S., Jiang, L., & Khattak, A. J. Assessing the effects of congestion surcharge on taxi ridership: Disentangling spatial spillover, nonlinearity, and time trends. *Under review at Transport Policy*.
 
-- Wang, R., Yang, H., Yang, Z., **Zhai, G.**, & Attard, M. (2025). Decoding weather-ridership dynamics for six transportation modes: A nonlinear analysis using XGBoost and SHAP models. *Available at SSRN 5312854*.
-
-- **Zhai, G.**, Chen, S., Yang, Z., Yang, H., Alruwaili, A., & Bobylev, N. (2025). How do weather and built environment nonlinearly influence metro ridership? A negative binomial regression enhanced by Bayesian additive regression trees. *Available at SSRN 5166698*.
-
 Prospective Students
 ======
 I am looking for self-motivated graduate students with backgrounds in transportation, computer science, mathematics, or statistics who are interested in causal inference, machine learning, and transportation safety/mobility. If interested, please email me with your CV and a brief statement of your research interests.
