@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University, Chengdu, China. I received my Ph.D. in Transportation Engineering from Old Dominion University, USA (advisor: Dr. Kun Xie), and worked as a Research Fellow in the Department of Civil and Environmental Engineering at the National University of Singapore (mentor: Dr. Prateek Bansal). I was selected for the Overseas Postdoctoral Talent Program of the Ministry of Education of China.
+I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University, Chengdu, China. I received my Ph.D. in Transportation Engineering from Old Dominion University, USA (advisor: [Dr. Kun Xie](http://www.transinformatics.com/), Transportation Informatics Lab), and worked as a Research Fellow in the Department of Civil and Environmental Engineering at the National University of Singapore (mentors: [Dr. Prateek Bansal](https://behaviourscience.org/), BeCoS Lab, and [Dr. Ghim Ping Raymond Ong](https://cde.nus.edu.sg/cee/staff/ong-ghim-ping-raymond/)). I was selected for the Overseas Postdoctoral Talent Program of the Ministry of Education of China.
 
 My research focuses on **causal inference and machine learning for transportation**, with two main themes:
 
