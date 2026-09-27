@@ -16,6 +16,13 @@ My research focuses on **causal inference and machine learning for transportatio
 
 Please feel free to contact me at [gzhai@swjtu.edu.cn](mailto:gzhai@swjtu.edu.cn).
 
+News
+======
+* **2026** — Our paper "Causal inference in conjoint analysis: Logit models vs. potential outcomes" is published in the *Journal of Choice Modelling*.
+* **2026** — I was awarded the National Natural Science Foundation of China (NSFC) Young Scientists Fund as Principal Investigator.
+* **2025** — I joined the School of Transportation and Logistics at Southwest Jiaotong University as an Assistant Professor.
+* **2025** — I am serving as Guest Editor for the *Transportation Research Part D* special issue on "AI-Driven Behavioral Analytics for Sustainable Shared Mobility".
+
 Education
 ======
 * **Ph.D.** in Transportation Engineering, Old Dominion University, USA, 2024
