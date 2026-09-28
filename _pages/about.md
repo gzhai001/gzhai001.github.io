@@ -9,7 +9,7 @@ redirect_from:
 
 <p class="gz-tagline">Causal decision-making for safe systems: what safety policies actually work, and why people choose the mobility options they do.</p>
 
-I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University, Chengdu, China. My research develops **causal inference and machine learning methods** that enable causal decision-making for safe systems — on one side, measuring which safety policies and designs actually work, from citywide speed limits and equity-aware crash hotspots to ride-hailing operations and generative-AI safety testing; on the other, understanding why travelers choose the mobility options they do, from ride-hailing and shared e-scooters to urban air mobility. The throughline is the statistical machinery — propensity scores, difference-in-differences, doubly robust estimation, Bayesian additive regression trees, and large language models — that turns observational data into credible, decision-ready evidence.
+I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University. My research develops **causal inference and machine learning methods** that enable causal decision-making for safe systems — measuring which safety policies actually work, and understanding why people choose the mobility options they do — turning observational data into credible, decision-ready evidence.
 
 I received my Ph.D. in Transportation Engineering from Old Dominion University, USA (advisor: [Dr. Kun Xie](http://www.transinformatics.com/), Transportation Informatics Lab), and was a Research Fellow at the National University of Singapore (mentors: [Dr. Prateek Bansal](https://behaviourscience.org/), BeCoS Lab, and [Dr. Ghim Ping Raymond Ong](https://cde.nus.edu.sg/cee/staff/ong-ghim-ping-raymond/)). I am Principal Investigator of the **NSFC Young Scientists Fund** (2026–2028) and the **Ministry of Education Overseas Postdoctoral Talent Program** (2027–2029).
 
@@ -196,8 +196,4 @@ Service & Honors
 
 Prospective Students
 ------
-I am looking for self-motivated graduate students with backgrounds in transportation, computer science, mathematics, or statistics who are interested in causal inference, machine learning, and transportation safety/mobility. If interested, please email me with your CV and a brief statement of your research interests.
-
-Contact
-------
-Email: [gzhai@swjtu.edu.cn](mailto:gzhai@swjtu.edu.cn)
+I am looking for self-motivated graduate students with backgrounds in transportation, computer science, mathematics, or statistics who are interested in causal inference, machine learning, and transportation safety/mobility. If interested, please email me at [gzhai@swjtu.edu.cn](mailto:gzhai@swjtu.edu.cn) with your CV and a brief statement of your research interests.
