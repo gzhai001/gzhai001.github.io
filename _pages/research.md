@@ -68,7 +68,7 @@ Representative work:
 |---|---|---|---|
 | Causal Decision-Making for Safe Systems | Ministry of Education, Overseas Postdoctoral Talent Program | <span class="gz-role pi">PI</span> | 2027–2029 |
 | Causal Inference Approach to Missing-Not-at-Random Mechanism Identification and Collaborative Imputation in Crash Data | NSFC Young Scientists Fund | <span class="gz-role pi">PI</span> | 2026–2028 |
-| Causality-Driven Active Prevention and Control of Traffic Safety on Urban Expressways via Air–Ground Collaboration | — | <span class="gz-role pi">PI</span> | 2026–2027 |
+| Causality-Driven Active Prevention and Control of Traffic Safety on Urban Expressways via Air–Ground Collaboration | Fundamental Research Funds for the Central Universities | <span class="gz-role pi">PI</span> | 2026–2027 |
 | Multimodal AI-Driven Demand Identification and Route Planning for Urban Air Mobility | Fundamental Research Funds for the Central Universities | <span class="gz-role copi">Co-PI</span> | 2026–2027 |
 | Digital Sisters: A Causally-Grounded Framework for Urban Mobility Knowledge Transfer in Data-Scarce Cities | National Natural Science Foundation of China | <span class="gz-role copi">Co-PI</span> | 2026–2027 |
 | Home and Firm Location Choice Models and Platform Development | Urban Redevelopment Authority, Singapore | Research Fellow | 2024–2027 |
