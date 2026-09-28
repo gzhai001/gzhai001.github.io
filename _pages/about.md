@@ -9,7 +9,7 @@ redirect_from:
 
 <p class="gz-tagline">Causal decision-making for safe systems: what safety policies actually work, and why people choose the mobility options they do.</p>
 
-I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University. My research develops **causal inference and machine learning methods** that enable causal decision-making for safe systems — measuring which safety policies actually work, and understanding why people choose the mobility options they do — turning observational data into credible, decision-ready evidence.
+I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University. My research develops **causal inference and machine learning methods** that enable causal decision-making for safe systems — turning observational data into credible, decision-ready evidence.
 
 I received my Ph.D. in Transportation Engineering from Old Dominion University, USA (advisor: [Dr. Kun Xie](http://www.transinformatics.com/), Transportation Informatics Lab), and was a Research Fellow at the National University of Singapore (mentors: [Dr. Prateek Bansal](https://behaviourscience.org/), BeCoS Lab, and [Dr. Ghim Ping Raymond Ong](https://cde.nus.edu.sg/cee/staff/ong-ghim-ping-raymond/)). I am Principal Investigator of the **NSFC Young Scientists Fund** (2026–2028) and the **Ministry of Education Overseas Postdoctoral Talent Program** (2027–2029).
 
