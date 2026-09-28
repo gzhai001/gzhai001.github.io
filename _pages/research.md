@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research applies **causal inference and machine learning** to pressing transportation problems, organized around two complementary themes: learning *what works* for safety, and learning *why people choose* the mobility options they do. The common thread is a commitment to credible inference — methods that separate real policy and design effects from confounding, and models of behavior that remain interpretable at the moment of decision-making.
+My research enables **causal decision-making in transportation systems**, organized around two complementary questions: which safety policies and designs *actually work*, and *why travelers choose* the mobility options they do. Across both themes, the common thread is credible inference — methods that separate real policy and design effects from confounding, and models of behavior that remain interpretable at the moment of decision-making.
 
 <img class="gz-fig" src="/images/hero-pipeline.svg" alt="Research overview: crash records, behavioral big data, and stated choices feed causal inference and machine learning methods — propensity scores, difference-in-differences, doubly robust estimation, Bayesian ML, choice models, and LLMs — which inform safer transportation systems and sustainable shared mobility" width="100%">
 <p class="gz-figcap">From multimodal data to decisions: causal inference × machine learning across both research themes.</p>

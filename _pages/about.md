@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p class="gz-tagline">Causal inference × machine learning for safer transportation systems and sustainable shared mobility.</p>
+<p class="gz-tagline">Causal decision-making in transportation systems: what safety policies actually work, and why people choose the mobility options they do.</p>
 
-I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University, Chengdu, China. My research develops **causal inference and machine learning methods** to answer a deceptively simple question: *what actually works to make transportation safer and mobility more sustainable?* From citywide speed-limit policies and ride-hailing safety to shared e-scooter pricing and taxi–metro competition, I build the statistical machinery — propensity scores, difference-in-differences, doubly robust estimation, Bayesian additive regression trees, and large language models — that turns observational data into credible, decision-ready evidence.
+I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University, Chengdu, China. My research develops **causal inference and machine learning methods** for causal decision-making in transportation systems — on one side, measuring which safety policies and designs actually work, from citywide speed limits and equity-aware crash hotspots to ride-hailing operations and generative-AI safety testing; on the other, understanding why travelers choose the mobility options they do, from ride-hailing and shared e-scooters to urban air mobility. The throughline is the statistical machinery — propensity scores, difference-in-differences, doubly robust estimation, Bayesian additive regression trees, and large language models — that turns observational data into credible, decision-ready evidence.
 
 I received my Ph.D. in Transportation Engineering from Old Dominion University, USA (advisor: [Dr. Kun Xie](http://www.transinformatics.com/), Transportation Informatics Lab), and was a Research Fellow at the National University of Singapore (mentors: [Dr. Prateek Bansal](https://behaviourscience.org/), BeCoS Lab, and [Dr. Ghim Ping Raymond Ong](https://cde.nus.edu.sg/cee/staff/ong-ghim-ping-raymond/)). I am Principal Investigator of the **NSFC Young Scientists Fund** (2026–2028) and the **Ministry of Education Overseas Postdoctoral Talent Program** (2027–2029).
 
@@ -41,7 +41,11 @@ Research Themes
 News
 ------
 <ul class="gz-news">
-  <li><span class="gz-when">2026</span> — Five journal papers published: safety-critical scenario generation (<i>TR Part C</i>), taxi–metro competition (<i>TR Part D</i>), causal inference in conjoint analysis (<i>J. Choice Modelling</i>), and urban air mobility &amp; bike-and-ride choice behavior (<i>Travel Behaviour and Society</i> ×2).</li>
+  <li><span class="gz-when">2026</span> — “Generating realistic safety-critical scenarios for vehicle–pedestrian interactions” published in <i>Transportation Research Part C</i>.</li>
+  <li><span class="gz-when">2026</span> — “Modeling taxi-metro competition: Uncovering nonlinear influences of trip and built environment factors” published in <i>Transportation Research Part D</i>.</li>
+  <li><span class="gz-when">2026</span> — “Causal inference in conjoint analysis: Logit models vs. potential outcomes” published in the <i>Journal of Choice Modelling</i>.</li>
+  <li><span class="gz-when">2026</span> — “Choice preferences for urban air mobility” published in <i>Travel Behaviour and Society</i>.</li>
+  <li><span class="gz-when">2026</span> — “Exploring different patterns of bike-and-ride trips and influencing factors” published in <i>Travel Behaviour and Society</i>.</li>
   <li><span class="gz-when">2025</span> — Awarded the <b>NSFC Young Scientists Fund</b> as Principal Investigator (2026–2028) and selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li>
   <li><span class="gz-when">2025</span> — Joined the School of Transportation and Logistics, Southwest Jiaotong University, as an Assistant Professor.</li>
   <li><span class="gz-when">2025</span> — Serving as Guest Editor for the <i>Transportation Research Part D</i> special issue on “AI-Driven Behavioral Analytics for Sustainable Shared Mobility.”</li>
