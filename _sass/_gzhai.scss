@@ -230,3 +230,11 @@ table.gz-grants {
     grid-template-columns: 1fr;
   }
 }
+
+/* ---- author sidebar: make links recognizable ---- */
+ul.author__urls {
+  a {
+    color: #2f6f83;
+    &:hover { text-decoration: underline; }
+  }
+}
