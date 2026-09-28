@@ -171,28 +171,14 @@ Selected grants as Principal Investigator; the full list is on the <a href="/res
 - <span class="gz-role pi">PI</span> **Causal Inference Approach to Missing-Not-at-Random Mechanism Identification and Collaborative Imputation in Crash Data** — NSFC Young Scientists Fund, 2026–2028
 - <span class="gz-role copi">Co-PI</span> **Digital Sisters: A Causally-Grounded Framework for Urban Mobility Knowledge Transfer in Data-Scarce Cities** — National Natural Science Foundation of China, 2026–2027
 
-Service & Honors
+Professional Service
 ------
-<div class="gz-cols2">
-<div>
-<h3>Professional Service</h3>
 <ul>
-  <li>Guest Editor, <i>Transportation Research Part D</i> special issue on AI-Driven Behavioral Analytics for Sustainable Shared Mobility (2025–)</li>
+  <li>Guest Editor, <i>Transportation Research Part D</i> special issue on <a href="https://www.sciencedirect.com/special-issue/1027Z51HRF6">AI-Driven Behavioral Analytics for Sustainable Shared Mobility</a> (2025–)</li>
   <li>Youth Editorial Board Member, <i>Digital Transportation and Safety</i> (2024–)</li>
   <li>Youth Editorial Board Member, <i>Transportation Safety and Environment</i> (2023–)</li>
   <li>60+ peer reviews for <i>TR Parts A–D</i>, <i>AAP</i>, <i>Safety Science</i>, <i>JTG</i>, <i>Transport Policy</i>, <i>Cities</i></li>
 </ul>
-</div>
-<div>
-<h3>Honors & Awards</h3>
-<ul>
-  <li>Academic Research Excellence Award, ODU College of Engineering — sole recipient, school-wide (2023)</li>
-  <li>Rollie Dubbe Engineering Scholarship, Old Dominion University — sole recipient, university-wide (2022)</li>
-  <li>Outstanding Reviewer, <i>Transportation Research Part D</i> (2021)</li>
-  <li>Outstanding Graduate, Southwest Jiaotong University (2020)</li>
-</ul>
-</div>
-</div>
 
 Prospective Students
 ------
