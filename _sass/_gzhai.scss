@@ -213,3 +213,20 @@ table.gz-grants {
 .page__content {
   h2 { border-bottom-color: #cfe3ea; }
 }
+
+/* ---- selected publications: two-column grid (homepage) ---- */
+.gz-pub-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  margin-bottom: 1em;
+  .gz-pub {
+    margin-bottom: 0;
+    flex-direction: column;
+    .gz-pub-img { flex: none; }
+    .gz-pub-img img { width: 100%; height: auto; max-height: 180px; }
+  }
+  @media (max-width: 900px) {
+    grid-template-columns: 1fr;
+  }
+}
