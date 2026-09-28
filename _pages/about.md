@@ -44,9 +44,10 @@ News
   <li><span class="gz-when">2026</span> — “Generating realistic safety-critical scenarios for vehicle–pedestrian interactions” published in <i>Transportation Research Part C</i>.</li>
   <li><span class="gz-when">2026</span> — “Modeling taxi-metro competition: Uncovering nonlinear influences of trip and built environment factors” published in <i>Transportation Research Part D</i>.</li>
   <li><span class="gz-when">2026</span> — “Causal inference in conjoint analysis: Logit models vs. potential outcomes” published in the <i>Journal of Choice Modelling</i>.</li>
-  <li><span class="gz-when">2026</span> — “Choice preferences for urban air mobility” published in <i>Travel Behaviour and Society</i>.</li>
+  <li><span class="gz-when">2026</span> — “Choice preferences for urban air mobility: A latent class discrete choice model with mixed logit extensions” published in <i>Travel Behaviour and Society</i>.</li>
   <li><span class="gz-when">2026</span> — “Exploring different patterns of bike-and-ride trips and influencing factors” published in <i>Travel Behaviour and Society</i>.</li>
-  <li><span class="gz-when">2025</span> — Awarded the <b>NSFC Young Scientists Fund</b> as Principal Investigator (2026–2028) and selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li>
+  <li><span class="gz-when">2025</span> — Awarded the <b>NSFC Young Scientists Fund</b> as Principal Investigator (2026–2028).</li>
+  <li><span class="gz-when">2025</span> — Selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li>
   <li><span class="gz-when">2025</span> — Joined the School of Transportation and Logistics, Southwest Jiaotong University, as an Assistant Professor.</li>
   <li><span class="gz-when">2025</span> — Serving as Guest Editor for the <i>Transportation Research Part D</i> special issue on “AI-Driven Behavioral Analytics for Sustainable Shared Mobility.”</li>
 </ul>
