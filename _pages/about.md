@@ -21,7 +21,7 @@ I received my Ph.D. in Transportation Engineering from Old Dominion University, 
 </div>
 
 Research Themes
-======
+------
 
 <div class="gz-themes">
   <div class="gz-theme-card">
@@ -39,7 +39,7 @@ Research Themes
 </div>
 
 News
-======
+------
 <ul class="gz-news">
   <li><span class="gz-when">2026</span> — Five journal papers published: safety-critical scenario generation (<i>TR Part C</i>), taxi–metro competition (<i>TR Part D</i>), causal inference in conjoint analysis (<i>J. Choice Modelling</i>), and urban air mobility &amp; bike-and-ride choice behavior (<i>Travel Behaviour and Society</i> ×2).</li>
   <li><span class="gz-when">2025</span> — Awarded the <b>NSFC Young Scientists Fund</b> as Principal Investigator (2026–2028) and selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li>
@@ -48,7 +48,7 @@ News
 </ul>
 
 Selected Publications
-======
+------
 Representative work across both themes — figure teasers from the papers. Full list below; see also my <a href="https://scholar.google.com/citations?user=YJHjwT8AAAAJ&hl=en">Google Scholar profile</a>.
 
 <div class="gz-pub">
@@ -159,7 +159,7 @@ Journal articles, reverse chronological order:
 </details>
 
 Research Funding
-======
+------
 Selected grants as Principal Investigator; the full list is on the <a href="/research/#research-funding">Research page</a>.
 
 - <span class="gz-role pi">PI</span> **Causal Decision-Making for Safe Systems** — Ministry of Education, Overseas Postdoctoral Talent Program, 2027–2029
@@ -167,7 +167,7 @@ Selected grants as Principal Investigator; the full list is on the <a href="/res
 - <span class="gz-role copi">Co-PI</span> **Digital Sisters: A Causally-Grounded Framework for Urban Mobility Knowledge Transfer in Data-Scarce Cities** — National Natural Science Foundation of China, 2026–2027
 
 Service & Honors
-======
+------
 <div class="gz-cols2">
 <div>
 <h3>Professional Service</h3>
@@ -190,9 +190,9 @@ Service & Honors
 </div>
 
 Prospective Students
-======
+------
 I am looking for self-motivated graduate students with backgrounds in transportation, computer science, mathematics, or statistics who are interested in causal inference, machine learning, and transportation safety/mobility. If interested, please email me with your CV and a brief statement of your research interests.
 
 Contact
-======
+------
 Email: [gzhai@swjtu.edu.cn](mailto:gzhai@swjtu.edu.cn)
