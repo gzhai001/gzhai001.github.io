@@ -31,7 +31,7 @@ Research Themes
     <p class="gz-theme-more"><a class="gz-btn" href="/research/#theme-i-causal-inference-for-transportation-safety">Explore Theme I</a></p>
   </div>
   <div class="gz-theme-card">
-    <img class="gz-fig" src="/images/theme2-shared-mobility.svg" alt="Behavioral analytics pipeline: GPS trajectories and built-environment data feed discrete choice and machine learning models of ride-hailing, metro, e-scooter, and urban air mobility choices" width="100%">
+    <img class="gz-fig" src="/images/theme2-shared-mobility.svg" alt="Behavioral analytics pipeline: GPS trajectories and built-environment daa feed discrete choice and machine learning models of ride-hailing, metro, e-scooter, and urban air mobility choices" width="100%">
     <h3>Theme II · AI-Driven Behavioral Analytics for Shared Mobility</h3>
     <p>How people choose and use shared mobility — and how pricing and the built environment shape those choices — revealed through discrete choice models and interpretable machine learning.</p>
     <p class="gz-theme-more"><a class="gz-btn" href="/research/#theme-ii-ai-driven-behavioral-analytics-for-sustainable-shared-mobility">Explore Theme II</a></p>
@@ -47,7 +47,7 @@ News
   <li><span class="gz-when">2026</span> — “Choice preferences for urban air mobility: A latent class discrete choice model with mixed logit extensions” published in <i>Travel Behaviour and Society</i>.</li>
   <li><span class="gz-when">2026</span> — “Exploring different patterns of bike-and-ride trips and influencing factors” published in <i>Travel Behaviour and Society</i>.</li>
   <li><span class="gz-when">2025</span> — Awarded the <b>NSFC Young Scientists Fund</b> as Principal Investigator (2026–2028).</li>
-  <li><span class="gz-when">2025</span> — Selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li>
+  <li><span class="gz-when">2025</span> — Selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li> 
   <li><span class="gz-when">2025</span> — Joined the School of Transportation and Logistics, Southwest Jiaotong University, as an Assistant Professor.</li>
   <li><span class="gz-when">2025</span> — Serving as Guest Editor for the <i>Transportation Research Part D</i> special issue on “AI-Driven Behavioral Analytics for Sustainable Shared Mobility.”</li>
 </ul>
