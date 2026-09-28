@@ -48,7 +48,7 @@ News
   <li><span class="gz-when">2026</span> — “Exploring different patterns of bike-and-ride trips and influencing factors” published in <i>Travel Behaviour and Society</i>.</li>
   <li><span class="gz-when">2025</span> — Awarded the <b>NSFC Young Scientists Fund</b> as Principal Investigator (2026–2028).</li>
   <li><span class="gz-when">2025</span> — Selected for the <b>Ministry of Education Overseas Postdoctoral Talent Program</b> (2027–2029).</li> 
-  <li><span class="gz-when">2025</span> — Joined the School of Transportation and Logistics, Southwest Jiaotong University, as an Assistant Professor.</li>
+  <li><span class="gz-when">2025</span> — “Built environment impacts on zonal shared e-scooter expenses: A Bayesian learning approach” published in <i>Transportation Research Part D</i>.</li>  <li><span class="gz-when">2025</span> — Joined the School of Transportation and Logistics, Southwest Jiaotong University, as an Assistant Professor.</li>
   <li><span class="gz-when">2025</span> — Serving as Guest Editor for the <i>Transportation Research Part D</i> special issue on “AI-Driven Behavioral Analytics for Sustainable Shared Mobility.”</li>
 </ul>
 
