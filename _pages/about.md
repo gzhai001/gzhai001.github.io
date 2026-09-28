@@ -9,7 +9,7 @@ redirect_from:
 
 <p class="gz-tagline">Causal decision-making for safe systems: what safety policies actually work, and why people choose the mobility options they do.</p>
 
-I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University. My research develops **causal inference and machine learning methods** that enable causal decision-making for safe systems — turning observational data into credible, decision-ready evidence.
+I am an Assistant Professor in the School of Transportation and Logistics at Southwest Jiaotong University.
 
 I received my Ph.D. in Transportation Engineering from Old Dominion University, USA (advisor: [Dr. Kun Xie](http://www.transinformatics.com/), Transportation Informatics Lab), and was a Research Fellow at the National University of Singapore (mentors: [Dr. Prateek Bansal](https://behaviourscience.org/), BeCoS Lab, and [Dr. Ghim Ping Raymond Ong](https://cde.nus.edu.sg/cee/staff/ong-ghim-ping-raymond/)). I am Principal Investigator of the **NSFC Young Scientists Fund** (2026–2028) and the **Ministry of Education Overseas Postdoctoral Talent Program** (2027–2029).
 
@@ -18,24 +18,6 @@ I received my Ph.D. in Transportation Engineering from Old Dominion University, 
   <span class="gz-chip">MoE Overseas Postdoctoral Talent Program · PI</span>
   <span class="gz-chip">Guest Editor, Transportation Research Part D</span>
   <span class="gz-chip">Youth Editorial Board Member ×2</span>
-</div>
-
-Research Themes
-------
-
-<div class="gz-themes">
-  <div class="gz-theme-card">
-    <img class="gz-fig" src="/images/theme1-causal-inference.svg" alt="Causal inference framework: treatment and policy affect safety outcomes, confounded by built environment and exposure, identified via propensity scores, difference-in-differences, and doubly robust estimation" width="100%">
-    <h3>Theme I · Causal Inference for Transportation Safety</h3>
-    <p>Credibly measuring the safety effects of policies, vehicles, and infrastructure — from speed limits and equity-aware crash hotspots to generative AI for safety-critical scenarios.</p>
-    <p class="gz-theme-more"><a class="gz-btn" href="/research/#theme-i-causal-inference-for-transportation-safety">Explore Theme I</a></p>
-  </div>
-  <div class="gz-theme-card">
-    <img class="gz-fig" src="/images/theme2-shared-mobility.svg" alt="Behavioral analytics pipeline: GPS trajectories and built-environment daa feed discrete choice and machine learning models of ride-hailing, metro, e-scooter, and urban air mobility choices" width="100%">
-    <h3>Theme II · AI-Driven Behavioral Analytics for Shared Mobility</h3>
-    <p>How people choose and use shared mobility — and how pricing and the built environment shape those choices — revealed through discrete choice models and interpretable machine learning.</p>
-    <p class="gz-theme-more"><a class="gz-btn" href="/research/#theme-ii-ai-driven-behavioral-analytics-for-sustainable-shared-mobility">Explore Theme II</a></p>
-  </div>
 </div>
 
 News
@@ -56,6 +38,7 @@ Selected Publications
 ------
 Representative work across both themes — figure teasers from the papers. Full list below; see also my <a href="https://scholar.google.com/citations?user=YJHjwT8AAAAJ&hl=en">Google Scholar profile</a>.
 
+<div class="gz-pub-grid">
 <div class="gz-pub">
   <div class="gz-pub-img"><img src="/images/pub-scenario-gen.svg" alt="Generative loop producing safety-critical vehicle-pedestrian crossing scenarios from latent conditions"></div>
   <div class="gz-pub-body">
@@ -114,6 +97,8 @@ Representative work across both themes — figure teasers from the papers. Full 
     <div class="gz-takeaway">Bayesian additive regression trees reveal which trip attributes, built environments, and station features actually sway taxi–metro competition.</div>
     <div class="gz-pub-links"><a href="https://doi.org/10.1016/j.trd.2026.105637">doi:10.1016/j.trd.2026.105637</a></div>
   </div>
+</div>
+
 </div>
 
 <details class="gz-fullpubs" markdown="1">
