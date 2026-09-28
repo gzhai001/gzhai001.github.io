@@ -176,7 +176,7 @@ Professional Service
 <ul>
   <li>Guest Editor, <i>Transportation Research Part D</i> special issue on <a href="https://www.sciencedirect.com/special-issue/1027Z51HRF6">AI-Driven Behavioral Analytics for Sustainable Shared Mobility</a> (2025–)</li>
   <li>Youth Editorial Board Member, <i>Digital Transportation and Safety</i> (2024–)</li>
-  <li>Youth Editorial Board Member, <i>Transportation Safety and Environment</i> (2023–)</li>
+  <li>Youth Editorial Board Member, <i>Transportation Safety and Environment</i> (2024–)</li>
   <li>60+ peer reviews for <i>TR Parts A–D</i>, <i>AAP</i>, <i>Safety Science</i>, <i>JTG</i>, <i>Transport Policy</i>, <i>Cities</i></li>
 </ul>
 
