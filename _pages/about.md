@@ -169,6 +169,7 @@ Selected grants as Principal Investigator; the full list is on the <a href="/res
 
 - <span class="gz-role pi">PI</span> **Causal Decision-Making for Safe Systems** — Ministry of Education, Overseas Postdoctoral Talent Program, 2027–2029
 - <span class="gz-role pi">PI</span> **Causal Inference Approach to Missing-Not-at-Random Mechanism Identification and Collaborative Imputation in Crash Data** — NSFC Young Scientists Fund, 2026–2028
+- <span class="gz-role pi">PI</span> **Causality-Driven Active Prevention and Control of Traffic Safety on Urban Expressways via Air–Ground Collaboration** — 2026–2027
 - <span class="gz-role copi">Co-PI</span> **Digital Sisters: A Causally-Grounded Framework for Urban Mobility Knowledge Transfer in Data-Scarce Cities** — National Natural Science Foundation of China, 2026–2027
 
 Professional Service
