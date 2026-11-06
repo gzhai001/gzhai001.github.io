@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: 6494c89771624e8485c0bee26a37ad3a.png
-  overlay_filter: 0.5
+  
 permalink: /
 title: "Guocong Zhai (翟国聪)"
 author_profile: true
