@@ -238,3 +238,10 @@ ul.author__urls {
     &:hover { text-decoration: underline; }
   }
 }
+
+/* ---- homepage hero: show background unobstructed, no title text over image ---- */
+.page__hero--overlay {
+  background-position: center 30%;
+  .page__title { display: none; }
+  .wrapper { padding: 0; min-height: 0; }
+}
