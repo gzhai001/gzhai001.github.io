@@ -245,3 +245,24 @@ ul.author__urls {
   .page__title { display: none; }
   .wrapper { padding: 0; min-height: 0; }
 }
+
+/* ---- site-wide background: replace white with hero image ---- */
+body {
+  background-image: url("/images/6494c89771624e8485c0bee26a37ad3a.png");
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* keep text readable: translucent white veil over content, masthead, footer */
+#masthead,
+#main,
+.page__footer {
+  background-color: rgba(255, 255, 255, 0.92);
+}
+
+#main {
+  padding-left: 1em;
+  padding-right: 1em;
+}
