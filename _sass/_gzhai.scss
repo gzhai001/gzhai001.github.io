@@ -278,12 +278,12 @@ body {
 
   .gz-bg-left {
     background-image: url("/images/cc21d0a7ddf3bee58fea716d508e1548.jpg");
-    background-position: 62% center; /* keep the train nose visible */
+    background-position: 38% center; /* shift view toward the right side of the photo, pushing the train to the left edge */
   }
 
   .gz-bg-right {
     background-image: url("/images/dc1e1b7b1b78fd8e85c51e1ef0ae2cbf.jpg");
-    background-position: center 18%; /* keep the SJTU gate plaque visible */
+    background-position: 68% 18%; /* shift view leftward in the photo, pushing the gate to the right edge */
   }
 
   /* soften the seam between the two photos */
@@ -312,4 +312,5 @@ body {
 #main {
   padding-left: 1em;
   padding-right: 1em;
+  padding-top: 2.2em;
 }
