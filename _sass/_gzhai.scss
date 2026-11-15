@@ -251,9 +251,13 @@ ul.author__urls {
 }
 
 /* ---- site-wide split background: left = station dusk, right = SJTU gate ---- */
-body {
-  /* fallback single image while the fixed layer below loads */
+html {
+  /* fallback color while the fixed layer below loads */
   background: #1a1d24;
+}
+
+body {
+  background: transparent;
 }
 
 .gz-bg-split {
