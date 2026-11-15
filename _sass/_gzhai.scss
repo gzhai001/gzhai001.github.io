@@ -265,11 +265,12 @@ body {
   inset: 0;
   z-index: -1;
   display: flex;
+  justify-content: space-between;
   pointer-events: none;
 
   .gz-bg-left,
   .gz-bg-right {
-    flex: 1 1 50%;
+    flex: 0 0 calc((100vw - 1280px) / 2);
     height: 100%;
     background-size: cover;
     background-position: center;
@@ -278,27 +279,12 @@ body {
 
   .gz-bg-left {
     background-image: url("/images/cc21d0a7ddf3bee58fea716d508e1548.jpg");
-    background-position: 38% center; /* shift view toward the right side of the photo, pushing the train to the left edge */
+    background-position: 30% center;
   }
 
   .gz-bg-right {
     background-image: url("/images/dc1e1b7b1b78fd8e85c51e1ef0ae2cbf.jpg");
-    background-position: 68% 18%; /* shift view leftward in the photo, pushing the gate to the right edge */
-  }
-
-  /* soften the seam between the two photos */
-  &::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    width: 120px;
-    transform: translateX(-50%);
-    background: linear-gradient(to right,
-      rgba(0, 0, 0, 0) 0%,
-      rgba(20, 22, 30, 0.18) 50%,
-      rgba(0, 0, 0, 0) 100%);
+    background-position: 70% 18%;
   }
 }
 
