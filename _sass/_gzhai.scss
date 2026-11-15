@@ -1,5 +1,6 @@
 /* Custom styles for gzhai001.github.io (additive overrides, minimal-mistakes base intact) */
 
+
 /* ---- shared bits ---- */
 .gz-tagline {
   font-size: 1.12rem;
@@ -8,6 +9,7 @@
   margin: 0 0 0.6em;
   line-height: 1.4;
 }
+
 
 .gz-chips {
   margin: 0.4em 0 1.2em;
@@ -25,12 +27,14 @@
   }
 }
 
+
 .gz-figcap {
   font-size: 0.78em;
   color: #7a8288;
   text-align: center;
   margin: 0.35em 0 1.4em;
 }
+
 
 img.gz-fig {
   border: 1px solid #e3e9ec;
@@ -246,13 +250,52 @@ ul.author__urls {
   .wrapper { padding: 0; min-height: 0; }
 }
 
-/* ---- site-wide background: replace white with hero image ---- */
+/* ---- site-wide split background: left = station dusk, right = SJTU gate ---- */
 body {
-  background-image: url("/images/6494c89771624e8485c0bee26a37ad3a.png");
-  background-size: cover;
-  background-position: center top;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  /* fallback single image while the fixed layer below loads */
+  background: #1a1d24;
+}
+
+.gz-bg-split {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  display: flex;
+  pointer-events: none;
+
+  .gz-bg-left,
+  .gz-bg-right {
+    flex: 1 1 50%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .gz-bg-left {
+    background-image: url("/images/cc21d0a7ddf3bee58fea716d508e1548.jpg");
+    background-position: 62% center; /* keep the train nose visible */
+  }
+
+  .gz-bg-right {
+    background-image: url("/images/dc1e1b7b1b78fd8e85c51e1ef0ae2cbf.jpg");
+    background-position: center 18%; /* keep the SJTU gate plaque visible */
+  }
+
+  /* soften the seam between the two photos */
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 120px;
+    transform: translateX(-50%);
+    background: linear-gradient(to right,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(20, 22, 30, 0.18) 50%,
+      rgba(0, 0, 0, 0) 100%);
+  }
 }
 
 /* keep text readable: translucent white veil over content, masthead, footer */
