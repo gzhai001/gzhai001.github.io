@@ -250,7 +250,7 @@ ul.author__urls {
   .wrapper { padding: 0; min-height: 0; }
 }
 
-/* ---- site-wide split background: left = station dusk, right = SJTU gate ---- */
+/* ---- site-wide background: SJTU gate photo, full-bleed ---- */
 html {
   /* fallback color while the fixed layer below loads */
   background: #1a1d24;
@@ -265,26 +265,20 @@ body {
   inset: 0;
   z-index: -1;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   pointer-events: none;
 
-  .gz-bg-left,
-  .gz-bg-right {
-    flex: 0 0 calc((100vw - 1280px) / 2);
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-
   .gz-bg-left {
-    background-image: url("/images/cc21d0a7ddf3bee58fea716d508e1548.jpg");
-    background-position: 30% center;
+    display: none;
   }
 
   .gz-bg-right {
+    flex: 0 0 100vw;
+    height: 100%;
     background-image: url("/images/dc1e1b7b1b78fd8e85c51e1ef0ae2cbf.jpg");
-    background-position: 42% 28%; /* frame the 交通大学 plaque */
+    background-size: cover;
+    background-position: 50% 28%; /* keep the SJTU gate plaque in view */
+    background-repeat: no-repeat;
   }
 }
 
@@ -292,7 +286,7 @@ body {
 #masthead,
 #main,
 .page__footer {
-  background-color: rgba(255, 255, 255, 0.92);
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 #main {
